@@ -1,0 +1,985 @@
+cadena_id,cadena,siglas,nombre_tienda,dimension,mediciones,promedio
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Atención en cajas,3,100.00
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Atención en cajas,3,100.00
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Atención en cajas,3,100.00
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Atención en cajas,3,100.00
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Atención en cajas,3,100.00
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Atención en cajas,3,100.00
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Atención en cajas,3,97.00
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Atención en cajas,3,97.00
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Atención en cajas,3,97.00
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Atención en cajas,3,97.00
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Atención en cajas,3,97.00
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Atención en cajas,3,96.97
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Atención en cajas,3,96.97
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Atención en cajas,3,94.00
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Atención en cajas,3,93.97
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Atención en cajas,3,93.97
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Atención en cajas,3,93.94
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Atención en cajas,3,91.00
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Atención en cajas,3,91.00
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Atención en cajas,3,91.00
+1,Zorro Abarrotero,ZMI,Zorro Minas,Atención en cajas,2,91.00
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Atención en cajas,3,91.00
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Atención en cajas,3,91.00
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Atención en cajas,3,91.00
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Atención en cajas,3,90.97
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Atención en cajas,3,90.97
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Atención en cajas,3,90.97
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Atención en cajas,3,90.97
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Atención en cajas,3,90.97
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Atención en cajas,3,90.97
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Atención en cajas,3,90.97
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Atención en cajas,3,90.94
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Atención en cajas,3,90.94
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Atención en cajas,3,90.91
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Atención en cajas,3,90.91
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Atención en cajas,3,90.91
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Atención en cajas,3,90.91
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Atención en cajas,3,88.00
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Atención en cajas,3,88.00
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Atención en cajas,3,87.97
+1,Zorro Abarrotero,ZES,Zorro Estacas,Atención en cajas,3,87.97
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Atención en cajas,3,87.97
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Atención en cajas,3,87.94
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Atención en cajas,3,87.94
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Atención en cajas,3,87.94
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Atención en cajas,3,87.94
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Atención en cajas,3,87.94
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Atención en cajas,3,87.94
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Atención en cajas,3,87.94
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Atención en cajas,3,84.97
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Atención en cajas,3,84.94
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Atención en cajas,3,84.94
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Atención en cajas,3,84.91
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Atención en cajas,3,84.85
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Atención en cajas,1,82.00
+1,Zorro Abarrotero,ZLN,Zorro León,Atención en cajas,3,81.91
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Atención en cajas,3,79.00
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Atención en cajas,3,78.82
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Atención en cajas,3,78.79
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Atención en cajas,3,78.67
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Atención en cajas,3,78.67
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Atención en cajas,3,75.64
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Atención en cajas,3,72.67
+1,Zorro Abarrotero,ZAR,Zorro Armas,Atención en cajas,2,64.00
+1,Zorro Abarrotero,CCA,Cazador Comercial,Atención en cajas,3,63.64
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Atención en cajas,3,63.61
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Atención en cajas,4,63.55
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Atención en cajas,3,60.76
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Atención en cajas,3,60.55
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Atención en cajas,3,57.33
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Atención en cajas,3,54.61
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Atención en cajas,3,45.30
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Calificación Total,3,95.00
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Calificación Total,3,94.33
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Calificación Total,3,94.33
+1,Zorro Abarrotero,ZMI,Zorro Minas,Calificación Total,2,94.00
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Calificación Total,3,94.00
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Calificación Total,3,93.67
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Calificación Total,3,93.33
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Calificación Total,3,93.33
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Calificación Total,3,92.33
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Calificación Total,3,91.67
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Calificación Total,3,90.67
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Calificación Total,3,90.33
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Calificación Total,3,90.33
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Calificación Total,3,90.00
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Calificación Total,3,89.33
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Calificación Total,3,89.33
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Calificación Total,3,89.00
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Calificación Total,3,88.33
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Calificación Total,3,88.00
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Calificación Total,3,88.00
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Calificación Total,3,87.00
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Calificación Total,3,87.00
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Calificación Total,3,87.00
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Calificación Total,3,87.00
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Calificación Total,3,87.00
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Calificación Total,3,86.67
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Calificación Total,3,86.67
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Calificación Total,3,86.67
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Calificación Total,3,85.67
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Calificación Total,3,85.67
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Calificación Total,3,85.33
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Calificación Total,3,85.00
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Calificación Total,3,85.00
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Calificación Total,3,84.67
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Calificación Total,3,84.33
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Calificación Total,3,84.33
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Calificación Total,3,84.33
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Calificación Total,3,84.33
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Calificación Total,3,84.33
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Calificación Total,3,84.00
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Calificación Total,3,84.00
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Calificación Total,3,83.67
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Calificación Total,3,83.33
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Calificación Total,1,83.00
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Calificación Total,3,83.00
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Calificación Total,3,82.67
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Calificación Total,3,82.67
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Calificación Total,3,82.00
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Calificación Total,3,81.67
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Calificación Total,3,81.67
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Calificación Total,3,81.00
+1,Zorro Abarrotero,CCA,Cazador Comercial,Calificación Total,3,80.67
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Calificación Total,3,80.00
+1,Zorro Abarrotero,ZES,Zorro Estacas,Calificación Total,3,80.00
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Calificación Total,3,80.00
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Calificación Total,3,80.00
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Calificación Total,3,79.67
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Calificación Total,3,79.67
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Calificación Total,3,79.33
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Calificación Total,3,79.33
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Calificación Total,3,78.67
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Calificación Total,3,78.33
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Calificación Total,3,77.67
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Calificación Total,3,77.00
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Calificación Total,4,76.75
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Calificación Total,3,76.67
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Calificación Total,3,76.67
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Calificación Total,3,76.00
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Calificación Total,3,75.00
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Calificación Total,3,74.33
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Calificación Total,3,73.00
+1,Zorro Abarrotero,ZAR,Zorro Armas,Calificación Total,2,70.50
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Calificación Total,3,70.00
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Calificación Total,3,69.33
+1,Zorro Abarrotero,ZLN,Zorro León,Calificación Total,3,69.33
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Calificación Total,3,69.00
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Calificación Total,3,68.33
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Calificación Total,3,62.67
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Calificación Total,3,62.00
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Ofertas y precios,1,100.00
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Ofertas y precios,3,100.00
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Ofertas y precios,3,95.83
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Ofertas y precios,3,95.83
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Ofertas y precios,3,95.83
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Ofertas y precios,3,95.83
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Ofertas y precios,3,95.83
+1,Zorro Abarrotero,ZES,Zorro Estacas,Ofertas y precios,3,89.00
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Ofertas y precios,3,89.00
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Ofertas y precios,3,87.50
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Ofertas y precios,3,87.50
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Ofertas y precios,3,84.83
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Ofertas y precios,3,84.83
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Ofertas y precios,3,84.83
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Ofertas y precios,3,84.50
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Ofertas y precios,3,83.33
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Ofertas y precios,3,83.33
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Ofertas y precios,3,83.33
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Ofertas y precios,3,83.33
+1,Zorro Abarrotero,ZLN,Zorro León,Ofertas y precios,3,83.33
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Ofertas y precios,3,81.83
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Ofertas y precios,3,81.83
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Ofertas y precios,3,80.67
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Ofertas y precios,3,79.17
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Ofertas y precios,3,79.17
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Ofertas y precios,3,79.17
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Ofertas y precios,3,77.67
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Ofertas y precios,3,77.67
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Ofertas y precios,3,75.00
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Ofertas y precios,3,75.00
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Ofertas y precios,3,75.00
+1,Zorro Abarrotero,ZMI,Zorro Minas,Ofertas y precios,2,75.00
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Ofertas y precios,3,73.50
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Ofertas y precios,3,72.33
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Ofertas y precios,3,72.33
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Ofertas y precios,3,72.33
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Ofertas y precios,4,71.88
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Ofertas y precios,3,70.83
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Ofertas y precios,3,68.17
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Ofertas y precios,3,66.67
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Ofertas y precios,3,66.67
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Ofertas y precios,3,66.67
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Ofertas y precios,3,66.67
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Ofertas y precios,3,66.67
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Ofertas y precios,3,65.17
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Ofertas y precios,3,64.00
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Ofertas y precios,3,62.50
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Ofertas y precios,3,62.50
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Ofertas y precios,3,61.33
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Ofertas y precios,3,59.83
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Ofertas y precios,3,59.83
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Ofertas y precios,3,59.83
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Ofertas y precios,3,58.33
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Ofertas y precios,3,58.33
+1,Zorro Abarrotero,CCA,Cazador Comercial,Ofertas y precios,3,56.83
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Ofertas y precios,3,55.67
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Ofertas y precios,3,54.17
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Ofertas y precios,3,51.50
+1,Zorro Abarrotero,ZAR,Zorro Armas,Ofertas y precios,2,50.00
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Ofertas y precios,3,50.00
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Ofertas y precios,3,46.00
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Ofertas y precios,3,33.33
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Ofertas y precios,3,31.83
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Ofertas y precios,3,19.33
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Orden y limpieza,3,100.00
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Orden y limpieza,3,100.00
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Orden y limpieza,3,100.00
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Orden y limpieza,3,100.00
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Orden y limpieza,3,97.67
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Orden y limpieza,3,97.67
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Orden y limpieza,3,97.62
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Orden y limpieza,3,97.62
+1,Zorro Abarrotero,ZMI,Zorro Minas,Orden y limpieza,2,96.50
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Orden y limpieza,3,95.33
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Orden y limpieza,3,95.33
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Orden y limpieza,3,95.24
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Orden y limpieza,3,95.24
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Orden y limpieza,3,93.00
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Orden y limpieza,3,92.95
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Orden y limpieza,3,90.67
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Orden y limpieza,3,90.67
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Orden y limpieza,3,90.62
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Orden y limpieza,3,90.57
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Orden y limpieza,3,90.57
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Orden y limpieza,3,90.57
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Orden y limpieza,3,90.57
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Orden y limpieza,3,88.29
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Orden y limpieza,3,88.29
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Orden y limpieza,3,88.29
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Orden y limpieza,3,88.29
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Orden y limpieza,3,88.19
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Orden y limpieza,3,88.19
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Orden y limpieza,3,88.00
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Orden y limpieza,3,88.00
+1,Zorro Abarrotero,ZAR,Zorro Armas,Orden y limpieza,2,86.00
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Orden y limpieza,1,86.00
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Orden y limpieza,3,85.95
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Orden y limpieza,3,85.95
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Orden y limpieza,3,85.90
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Orden y limpieza,3,85.81
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Orden y limpieza,3,85.81
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Orden y limpieza,3,85.67
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Orden y limpieza,3,85.62
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Orden y limpieza,3,83.52
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Orden y limpieza,3,83.29
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Orden y limpieza,3,83.24
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Orden y limpieza,3,81.24
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Orden y limpieza,3,80.90
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Orden y limpieza,3,80.90
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Orden y limpieza,3,78.86
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Orden y limpieza,3,78.86
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Orden y limpieza,3,78.76
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Orden y limpieza,3,78.67
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Orden y limpieza,3,78.57
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Orden y limpieza,3,78.52
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Orden y limpieza,3,78.52
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Orden y limpieza,3,78.33
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Orden y limpieza,4,76.75
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Orden y limpieza,3,76.43
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Orden y limpieza,3,76.29
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Orden y limpieza,3,76.24
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Orden y limpieza,3,76.14
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Orden y limpieza,3,76.05
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Orden y limpieza,3,76.00
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Orden y limpieza,3,73.57
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Orden y limpieza,3,71.52
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Orden y limpieza,3,71.52
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Orden y limpieza,3,71.52
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Orden y limpieza,3,66.62
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Orden y limpieza,3,66.43
+1,Zorro Abarrotero,ZES,Zorro Estacas,Orden y limpieza,3,64.43
+1,Zorro Abarrotero,ZLN,Zorro León,Orden y limpieza,3,64.43
+1,Zorro Abarrotero,CCA,Cazador Comercial,Orden y limpieza,3,64.14
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Orden y limpieza,3,64.05
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Orden y limpieza,3,64.00
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Orden y limpieza,3,62.10
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Orden y limpieza,3,57.29
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Orden y limpieza,3,54.86
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Orden y limpieza,3,54.71
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Orden y limpieza,3,49.90
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Orden y limpieza,3,49.71
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Orden y limpieza,3,47.52
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Orden y limpieza,3,42.86
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Rapidez,3,100.00
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Rapidez,3,100.00
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Rapidez,3,100.00
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Rapidez,3,100.00
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Rapidez,3,100.00
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Rapidez,3,100.00
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Rapidez,3,100.00
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Rapidez,3,100.00
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Rapidez,3,99.00
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Rapidez,3,99.00
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Rapidez,3,98.99
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Rapidez,3,98.99
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Rapidez,3,98.99
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Rapidez,3,98.99
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Rapidez,3,98.99
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Rapidez,3,98.99
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Rapidez,3,97.00
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Rapidez,3,97.00
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Rapidez,3,96.00
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Rapidez,3,95.00
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Rapidez,3,95.00
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Rapidez,3,94.97
+1,Zorro Abarrotero,ZMI,Zorro Minas,Rapidez,2,94.00
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Rapidez,3,93.99
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Rapidez,3,93.99
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Rapidez,3,93.96
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Rapidez,3,93.95
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Rapidez,3,93.95
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Rapidez,3,93.00
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Rapidez,3,92.95
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Rapidez,3,92.00
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Rapidez,3,92.00
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Rapidez,3,91.97
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Rapidez,3,91.92
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Rapidez,3,91.00
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Rapidez,3,91.00
+1,Zorro Abarrotero,CCA,Cazador Comercial,Rapidez,3,90.99
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Rapidez,3,90.96
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Rapidez,3,90.96
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Rapidez,4,90.18
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Rapidez,3,90.00
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Rapidez,3,90.00
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Rapidez,3,89.99
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Rapidez,3,89.95
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Rapidez,3,89.95
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Rapidez,3,88.99
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Rapidez,3,88.00
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Rapidez,3,86.97
+1,Zorro Abarrotero,ZES,Zorro Estacas,Rapidez,3,86.95
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Rapidez,3,86.93
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Rapidez,3,86.87
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Rapidez,3,86.00
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Rapidez,3,85.95
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Rapidez,3,84.95
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Rapidez,3,83.98
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Rapidez,3,83.95
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Rapidez,3,82.97
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Rapidez,3,82.96
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Rapidez,3,82.95
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Rapidez,3,82.92
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Rapidez,3,82.90
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Rapidez,3,81.91
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Rapidez,3,80.96
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Rapidez,3,80.95
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Rapidez,3,80.92
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Rapidez,3,79.94
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Rapidez,3,78.97
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Rapidez,3,78.85
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Rapidez,3,76.95
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Rapidez,3,76.90
+1,Zorro Abarrotero,ZAR,Zorro Armas,Rapidez,2,76.00
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Rapidez,3,72.90
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Rapidez,3,71.89
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Rapidez,3,69.62
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Rapidez,3,68.94
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Rapidez,3,67.94
+1,Zorro Abarrotero,ZLN,Zorro León,Rapidez,3,66.89
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Rapidez,1,61.00
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Rapidez,3,56.28
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Seguridad industrial,3,100.00
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Seguridad industrial,3,100.00
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Seguridad industrial,3,100.00
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Seguridad industrial,3,100.00
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Seguridad industrial,3,96.67
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Seguridad industrial,3,96.67
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Seguridad industrial,3,96.67
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Seguridad industrial,3,96.00
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Seguridad industrial,3,96.00
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Seguridad industrial,3,94.67
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Seguridad industrial,3,94.00
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Seguridad industrial,3,94.00
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Seguridad industrial,3,91.33
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Seguridad industrial,3,90.67
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Seguridad industrial,3,89.33
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Seguridad industrial,3,89.00
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Seguridad industrial,3,88.67
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Seguridad industrial,3,88.67
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Seguridad industrial,3,88.00
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Seguridad industrial,3,88.00
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Seguridad industrial,3,88.00
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Seguridad industrial,3,87.33
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Seguridad industrial,3,87.33
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Seguridad industrial,3,87.33
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Seguridad industrial,3,86.00
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Seguridad industrial,3,86.00
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Seguridad industrial,3,85.33
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Seguridad industrial,3,84.67
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Seguridad industrial,3,84.67
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Seguridad industrial,1,84.00
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Seguridad industrial,3,82.67
+1,Zorro Abarrotero,ZAR,Zorro Armas,Seguridad industrial,2,82.00
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Seguridad industrial,3,82.00
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Seguridad industrial,3,81.33
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Seguridad industrial,3,81.33
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Seguridad industrial,3,81.33
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Seguridad industrial,3,80.67
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Seguridad industrial,3,80.67
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Seguridad industrial,3,80.67
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Seguridad industrial,3,80.67
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Seguridad industrial,3,80.00
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Seguridad industrial,3,80.00
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Seguridad industrial,3,79.33
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Seguridad industrial,3,78.67
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Seguridad industrial,3,78.67
+1,Zorro Abarrotero,CCA,Cazador Comercial,Seguridad industrial,3,78.00
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Seguridad industrial,4,78.00
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Seguridad industrial,3,78.00
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Seguridad industrial,3,78.00
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Seguridad industrial,3,76.67
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Seguridad industrial,3,76.67
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Seguridad industrial,3,75.33
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Seguridad industrial,3,75.33
+1,Zorro Abarrotero,ZES,Zorro Estacas,Seguridad industrial,3,75.33
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Seguridad industrial,3,75.33
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Seguridad industrial,3,75.33
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Seguridad industrial,3,74.67
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Seguridad industrial,3,73.33
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Seguridad industrial,3,73.33
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Seguridad industrial,3,72.67
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Seguridad industrial,3,72.00
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Seguridad industrial,3,71.33
+1,Zorro Abarrotero,ZMI,Zorro Minas,Seguridad industrial,2,69.00
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Seguridad industrial,3,68.67
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Seguridad industrial,3,67.33
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Seguridad industrial,3,66.00
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Seguridad industrial,3,64.67
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Seguridad industrial,3,64.67
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Seguridad industrial,3,62.00
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Seguridad industrial,3,61.33
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Seguridad industrial,3,60.67
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Seguridad industrial,3,58.67
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Seguridad industrial,3,56.67
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Seguridad industrial,3,52.67
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Seguridad industrial,3,52.67
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Seguridad industrial,3,51.33
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Seguridad industrial,3,49.33
+1,Zorro Abarrotero,ZLN,Zorro León,Seguridad industrial,3,46.00
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Seguridad industrial,3,43.33
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZAR,Zorro Armas,Surtido y existencia,2,100.00
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZES,Zorro Estacas,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Surtido y existencia,1,100.00
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Surtido y existencia,3,100.00
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Surtido y existencia,3,97.33
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Surtido y existencia,3,97.33
+1,Zorro Abarrotero,ZMI,Zorro Minas,Surtido y existencia,2,96.00
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Surtido y existencia,3,94.67
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Surtido y existencia,3,94.33
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Surtido y existencia,3,94.33
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Surtido y existencia,3,91.67
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Surtido y existencia,3,88.67
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Surtido y existencia,3,88.67
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Surtido y existencia,3,86.00
+1,Zorro Abarrotero,CCA,Cazador Comercial,Surtido y existencia,3,83.33
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Surtido y existencia,3,83.33
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Surtido y existencia,3,83.33
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Surtido y existencia,3,80.67
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Surtido y existencia,3,80.67
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Surtido y existencia,3,78.00
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Surtido y existencia,3,78.00
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Surtido y existencia,3,77.67
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Surtido y existencia,3,77.67
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Surtido y existencia,3,75.00
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Surtido y existencia,3,72.33
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Surtido y existencia,3,72.33
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Surtido y existencia,3,72.33
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Surtido y existencia,3,72.00
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Surtido y existencia,3,69.33
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Surtido y existencia,3,66.67
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Surtido y existencia,3,66.67
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Surtido y existencia,3,66.67
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Surtido y existencia,3,66.67
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Surtido y existencia,3,66.67
+1,Zorro Abarrotero,ZLN,Zorro León,Surtido y existencia,3,64.00
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Surtido y existencia,4,62.50
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Surtido y existencia,3,61.00
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Surtido y existencia,3,61.00
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Surtido y existencia,3,58.33
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Surtido y existencia,3,55.67
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Surtido y existencia,3,55.67
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Surtido y existencia,3,55.33
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Surtido y existencia,3,55.33
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Surtido y existencia,3,50.00
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Surtido y existencia,3,47.33
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Surtido y existencia,3,41.67
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Surtido y existencia,3,39.00
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Surtido y existencia,3,39.00
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Surtido y existencia,3,39.00
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Surtido y existencia,3,36.33
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Surtido y existencia,3,36.00
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Surtido y existencia,3,28.00
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Surtido y existencia,3,28.00
+1,Zorro Abarrotero,ZC2,Zorro Contreras 2,Trato amable,3,100.00
+1,Zorro Abarrotero,ZFR,Zorro San Francisco del Rinćon,Trato amable,1,100.00
+1,Zorro Abarrotero,ZMI,Zorro Minas,Trato amable,2,98.00
+1,Zorro Abarrotero,ZTU,Zorro Tulancingo,Trato amable,3,97.33
+1,Zorro Abarrotero,FAX,Flecha Abarrotera Xochimilco,Trato amable,3,95.83
+1,Zorro Abarrotero,ZTM,Zorro Tecámac 2,Trato amable,3,95.83
+1,Zorro Abarrotero,ZL2,Zorro Campestre,Trato amable,3,94.61
+1,Zorro Abarrotero,ZCJ,Zorro Cuajimalpa,Trato amable,3,94.33
+1,Zorro Abarrotero,ZN2,Zorro Nicolás Romero 2,Trato amable,3,94.33
+1,Zorro Abarrotero,ZPC,Zorro Paseo Chalco,Trato amable,3,94.33
+1,Zorro Abarrotero,PSU,Cazador Santa Úrsula,Trato amable,3,93.00
+1,Zorro Abarrotero,ZOZ,Zorro Ozumba,Trato amable,3,93.00
+1,Zorro Abarrotero,ZA2,Zorro Alta Tensión 2,Trato amable,3,92.00
+1,Zorro Abarrotero,ZAL,Zorro Alta Tensión,Trato amable,3,91.67
+1,Zorro Abarrotero,ZM2,Zorro Peñón,Trato amable,3,91.67
+1,Zorro Abarrotero,ZCL,Zorro Chalco,Trato amable,3,90.33
+1,Zorro Abarrotero,ZIZ,Zorro Izcalli,Trato amable,3,90.33
+1,Zorro Abarrotero,ZJI,Zorro Jiutepec,Trato amable,3,90.33
+1,Zorro Abarrotero,ZRH,Zorro Río Hondo,Trato amable,3,90.33
+1,Zorro Abarrotero,ZTY,Zorro Tulyehualco,Trato amable,3,90.28
+1,Zorro Abarrotero,ZA3,Zorro Alta Tensión 3,Trato amable,3,90.22
+1,Zorro Abarrotero,ZVC,Zorro Valle de Chalco,Trato amable,3,89.22
+1,Zorro Abarrotero,CCA,Cazador Comercial,Trato amable,3,89.06
+1,Zorro Abarrotero,ZNR,Zorro Nicolás Romero,Trato amable,3,89.06
+1,Zorro Abarrotero,ZAN,Zorro Atizapán 2,Trato amable,3,87.67
+1,Zorro Abarrotero,ZPR,Zorro Primavera,Trato amable,3,87.67
+1,Zorro Abarrotero,ZV2,Zorro Valle de Chalco 2,Trato amable,3,87.67
+1,Zorro Abarrotero,ZNZ,Zorro Nezahualcóyotl,Trato amable,3,87.50
+1,Zorro Abarrotero,ZOC,Zorro Coacalco,Trato amable,3,86.00
+1,Zorro Abarrotero,ZCO,Zorro Contreras,Trato amable,3,85.00
+1,Zorro Abarrotero,ZER,Zorro Ermita Iztapalapa,Trato amable,3,84.72
+1,Zorro Abarrotero,ZT1,Zorro Toluca 1,Trato amable,3,83.67
+1,Zorro Abarrotero,ZCU,Zorro Cuautepec,Trato amable,3,83.44
+1,Zorro Abarrotero,ZJR,Zorro San Juan del Río,Trato amable,3,83.44
+1,Zorro Abarrotero,ZVV,Zorro Vicente Villada,Trato amable,3,83.39
+1,Zorro Abarrotero,ZAM,Zorro Amecameca,Trato amable,3,83.33
+1,Zorro Abarrotero,ZVM,Zorro Vía Morelos,Trato amable,3,82.28
+1,Zorro Abarrotero,ZTC,Zorro Tecámac,Trato amable,3,82.17
+1,Zorro Abarrotero,ZIX,Zorro Ixtapaluca,Trato amable,3,80.67
+1,Zorro Abarrotero,ZCE,Zorro Centenario,Trato amable,3,80.50
+1,Zorro Abarrotero,ZAZ,Zorro Cien Metros,Trato amable,3,79.39
+1,Zorro Abarrotero,ZCN,Zorro Cuautitlán,Trato amable,3,79.33
+1,Zorro Abarrotero,ZCP,Zorro Carrillo Puerto,Trato amable,3,79.33
+1,Zorro Abarrotero,ZET,Zorro Ermita Iztapalapa 2,Trato amable,3,79.33
+1,Zorro Abarrotero,ZT2,Zorro Toluca 2,Trato amable,3,79.33
+1,Zorro Abarrotero,ZEC,Zorro Ecatepec,Trato amable,3,79.06
+1,Zorro Abarrotero,ZPI,Zorro Picacho,Trato amable,3,79.06
+1,Zorro Abarrotero,ZAG,Zorro Aragón,Trato amable,3,79.00
+1,Zorro Abarrotero,ZTT,Zorro Tultitlán,Trato amable,3,78.00
+1,Zorro Abarrotero,ZAP,Zorro Aeropuerto,Trato amable,3,77.94
+1,Zorro Abarrotero,ZTE,Zorro Texcoco 2,Trato amable,3,77.83
+1,Zorro Abarrotero,ZAC,Zorro Avenida Central,Trato amable,3,76.61
+1,Zorro Abarrotero,ZRY,Zorro Reyes,Trato amable,3,76.44
+1,Zorro Abarrotero,ZSJ,Zorro San Juanico,Trato amable,3,76.39
+1,Zorro Abarrotero,ZQ6,Zorro Central Q6,Trato amable,3,76.33
+1,Zorro Abarrotero,ZE9,Zorro Central E9,Trato amable,3,75.00
+1,Zorro Abarrotero,ZQR,Zorro Querétaro,Trato amable,3,72.39
+1,Zorro Abarrotero,ZTL,Zorro Tlalnepantla,Trato amable,4,71.75
+1,Zorro Abarrotero,ZES,Zorro Estacas,Trato amable,3,71.17
+1,Zorro Abarrotero,ZLG,Zorro Lago de Guadalupe,Trato amable,3,70.94
+1,Zorro Abarrotero,ZHH,Zorro Huehuetoca,Trato amable,3,69.44
+1,Zorro Abarrotero,ZIG,Zorro Iguala,Trato amable,3,69.44
+1,Zorro Abarrotero,ZLN,Zorro León,Trato amable,3,68.06
+1,Zorro Abarrotero,ZE3,Zorro Ecatepec 3,Trato amable,3,66.72
+1,Zorro Abarrotero,ZH2,Zorro Central H2,Trato amable,3,65.39
+1,Zorro Abarrotero,ZCH,Zorro Chicoloapan,Trato amable,3,63.83
+1,Zorro Abarrotero,CNA,Cazador Comercial Naucalpan,Trato amable,3,62.67
+1,Zorro Abarrotero,ZCC,Zorro Carretera Cuernavaca,Trato amable,3,62.61
+1,Zorro Abarrotero,ZE2,Zorro Ecatepec 2,Trato amable,3,62.44
+1,Zorro Abarrotero,ZTX,Zorro Texcoco,Trato amable,3,62.39
+1,Zorro Abarrotero,ZTN,Zorro Tenayuca,Trato amable,3,61.39
+1,Zorro Abarrotero,ZCA,Zorro Central C47,Trato amable,3,61.17
+1,Zorro Abarrotero,ZAT,Zorro Atizapán,Trato amable,3,59.78
+1,Zorro Abarrotero,ZPA,Zorro Pantitlán,Trato amable,3,57.06
+1,Zorro Abarrotero,ZCM,Zorro Chimalhuacán,Trato amable,3,55.61
+1,Zorro Abarrotero,ZRO,Zorro Roldán,Trato amable,3,55.61
+1,Zorro Abarrotero,ZIR,Zorro Irapuato,Trato amable,3,54.06
+1,Zorro Abarrotero,ZAR,Zorro Armas,Trato amable,2,48.00
+1,Zorro Abarrotero,ZCV,Zorro Calzada La Viga,Trato amable,3,47.56
+2,Scorpion,SH96,Scorpion Central H96,Atención en cajas,1,100.00
+2,Scorpion,SEC,Scorpion Ecatepec,Atención en cajas,3,94.00
+2,Scorpion,SN2,Scorpion Naucalpan 2,Atención en cajas,3,94.00
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Atención en cajas,3,94.00
+2,Scorpion,SIX,Scorpion Ixtapaluca,Atención en cajas,3,93.97
+2,Scorpion,SCN,Scorpion Cuautitlán,Atención en cajas,3,91.00
+2,Scorpion,SOC,Scorpion Coacalco,Atención en cajas,3,91.00
+2,Scorpion,STT,Scorpion Tultitlán,Atención en cajas,3,91.00
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Atención en cajas,2,91.00
+2,Scorpion,SC7,Scorpion Calle 7,Atención en cajas,3,90.97
+2,Scorpion,SVC,Scorpion Valle de Chalco,Atención en cajas,3,90.97
+2,Scorpion,SAT,Scorpion Atizapán,Atención en cajas,3,87.97
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Atención en cajas,3,87.97
+2,Scorpion,SCH,Scorpion Chicoloapan,Atención en cajas,3,87.91
+2,Scorpion,SQR,Scorpion Querétaro,Atención en cajas,3,87.91
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Atención en cajas,2,86.50
+2,Scorpion,SN3,Scorpion Naucalpan 3,Atención en cajas,3,84.97
+2,Scorpion,SRY,Scorpion Reyes,Atención en cajas,3,84.94
+2,Scorpion,STC,Scorpion Tecámac,Atención en cajas,3,84.94
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Atención en cajas,3,84.91
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Atención en cajas,3,84.88
+2,Scorpion,SEM,Scorpion Eduardo Molina,Atención en cajas,2,82.00
+2,Scorpion,SCE,Scorpion Centenario,Atención en cajas,3,81.94
+2,Scorpion,STY,Scorpion Tulyehualco,Atención en cajas,3,81.91
+2,Scorpion,STL,Scorpion Tlalnepantla,Atención en cajas,4,81.84
+2,Scorpion,SF6,Scorpion Central F6,Atención en cajas,2,77.50
+2,Scorpion,SNA,Scorpion Nueva Aragón,Atención en cajas,3,76.00
+2,Scorpion,SCU,Scorpion Cuautepec,Atención en cajas,3,75.97
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Atención en cajas,3,75.91
+2,Scorpion,SVM,Scorpion Vía Morelos,Atención en cajas,3,75.91
+2,Scorpion,STA,Scorpion Tapicería,Atención en cajas,3,72.88
+2,Scorpion,SAJ,Scorpion Ajusco,Atención en cajas,3,72.79
+2,Scorpion,SXC,Scorpion Xochimilco,Atención en cajas,3,72.67
+2,Scorpion,STU,Scorpion Tulancingo,Atención en cajas,3,69.64
+2,Scorpion,SMI,Scorpion Misterios,Atención en cajas,2,54.50
+2,Scorpion,STC,Scorpion Tecámac,Calificación Total,3,95.33
+2,Scorpion,SEC,Scorpion Ecatepec,Calificación Total,3,93.67
+2,Scorpion,SCH,Scorpion Chicoloapan,Calificación Total,3,93.33
+2,Scorpion,SN2,Scorpion Naucalpan 2,Calificación Total,3,93.00
+2,Scorpion,SN3,Scorpion Naucalpan 3,Calificación Total,3,92.33
+2,Scorpion,SCE,Scorpion Centenario,Calificación Total,3,91.67
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Calificación Total,2,91.00
+2,Scorpion,SOC,Scorpion Coacalco,Calificación Total,3,90.67
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Calificación Total,2,90.50
+2,Scorpion,STL,Scorpion Tlalnepantla,Calificación Total,4,89.50
+2,Scorpion,SCN,Scorpion Cuautitlán,Calificación Total,3,89.00
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Calificación Total,3,89.00
+2,Scorpion,SC7,Scorpion Calle 7,Calificación Total,3,88.00
+2,Scorpion,STY,Scorpion Tulyehualco,Calificación Total,3,87.33
+2,Scorpion,SVM,Scorpion Vía Morelos,Calificación Total,3,87.00
+2,Scorpion,SIX,Scorpion Ixtapaluca,Calificación Total,3,86.67
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Calificación Total,3,84.67
+2,Scorpion,SRY,Scorpion Reyes,Calificación Total,3,84.67
+2,Scorpion,SAJ,Scorpion Ajusco,Calificación Total,3,83.67
+2,Scorpion,STA,Scorpion Tapicería,Calificación Total,3,83.33
+2,Scorpion,SXC,Scorpion Xochimilco,Calificación Total,3,83.33
+2,Scorpion,SF6,Scorpion Central F6,Calificación Total,2,81.00
+2,Scorpion,STT,Scorpion Tultitlán,Calificación Total,3,81.00
+2,Scorpion,SH96,Scorpion Central H96,Calificación Total,1,80.00
+2,Scorpion,SAT,Scorpion Atizapán,Calificación Total,3,79.67
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Calificación Total,3,79.67
+2,Scorpion,SQR,Scorpion Querétaro,Calificación Total,3,78.67
+2,Scorpion,SCU,Scorpion Cuautepec,Calificación Total,3,77.33
+2,Scorpion,SEM,Scorpion Eduardo Molina,Calificación Total,2,76.50
+2,Scorpion,SNA,Scorpion Nueva Aragón,Calificación Total,3,76.00
+2,Scorpion,SMI,Scorpion Misterios,Calificación Total,2,75.50
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Calificación Total,3,75.00
+2,Scorpion,STU,Scorpion Tulancingo,Calificación Total,3,75.00
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Calificación Total,3,74.67
+2,Scorpion,SVC,Scorpion Valle de Chalco,Calificación Total,3,74.33
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Ofertas y precios,3,100.00
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Ofertas y precios,3,100.00
+2,Scorpion,SN3,Scorpion Naucalpan 3,Ofertas y precios,3,100.00
+2,Scorpion,STY,Scorpion Tulyehualco,Ofertas y precios,3,95.83
+2,Scorpion,SCH,Scorpion Chicoloapan,Ofertas y precios,3,94.33
+2,Scorpion,SEC,Scorpion Ecatepec,Ofertas y precios,3,94.33
+2,Scorpion,SF6,Scorpion Central F6,Ofertas y precios,2,91.50
+2,Scorpion,SOC,Scorpion Coacalco,Ofertas y precios,3,89.00
+2,Scorpion,STC,Scorpion Tecámac,Ofertas y precios,3,84.83
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Ofertas y precios,2,75.00
+2,Scorpion,SCN,Scorpion Cuautitlán,Ofertas y precios,3,75.00
+2,Scorpion,SN2,Scorpion Naucalpan 2,Ofertas y precios,3,72.33
+2,Scorpion,SIX,Scorpion Ixtapaluca,Ofertas y precios,3,70.83
+2,Scorpion,SVC,Scorpion Valle de Chalco,Ofertas y precios,3,70.83
+2,Scorpion,STL,Scorpion Tlalnepantla,Ofertas y precios,4,69.88
+2,Scorpion,SRY,Scorpion Reyes,Ofertas y precios,3,66.67
+2,Scorpion,STU,Scorpion Tulancingo,Ofertas y precios,3,66.67
+2,Scorpion,SC7,Scorpion Calle 7,Ofertas y precios,3,65.50
+2,Scorpion,SH96,Scorpion Central H96,Ofertas y precios,1,62.50
+2,Scorpion,SVM,Scorpion Vía Morelos,Ofertas y precios,3,59.83
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Ofertas y precios,3,58.33
+2,Scorpion,SCE,Scorpion Centenario,Ofertas y precios,3,58.33
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Ofertas y precios,3,58.33
+2,Scorpion,STT,Scorpion Tultitlán,Ofertas y precios,3,58.33
+2,Scorpion,SCU,Scorpion Cuautepec,Ofertas y precios,3,54.17
+2,Scorpion,SAJ,Scorpion Ajusco,Ofertas y precios,3,50.00
+2,Scorpion,SEM,Scorpion Eduardo Molina,Ofertas y precios,2,50.00
+2,Scorpion,SMI,Scorpion Misterios,Ofertas y precios,2,50.00
+2,Scorpion,SNA,Scorpion Nueva Aragón,Ofertas y precios,3,50.00
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Ofertas y precios,3,50.00
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Ofertas y precios,2,50.00
+2,Scorpion,SAT,Scorpion Atizapán,Ofertas y precios,3,48.50
+2,Scorpion,SQR,Scorpion Querétaro,Ofertas y precios,3,41.67
+2,Scorpion,STA,Scorpion Tapicería,Ofertas y precios,3,37.50
+2,Scorpion,SXC,Scorpion Xochimilco,Ofertas y precios,3,33.33
+2,Scorpion,SCE,Scorpion Centenario,Orden y limpieza,3,100.00
+2,Scorpion,STC,Scorpion Tecámac,Orden y limpieza,3,97.67
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Orden y limpieza,2,96.50
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Orden y limpieza,2,93.00
+2,Scorpion,STT,Scorpion Tultitlán,Orden y limpieza,3,92.95
+2,Scorpion,SCN,Scorpion Cuautitlán,Orden y limpieza,3,92.86
+2,Scorpion,SOC,Scorpion Coacalco,Orden y limpieza,3,90.62
+2,Scorpion,SVM,Scorpion Vía Morelos,Orden y limpieza,3,90.62
+2,Scorpion,SMI,Scorpion Misterios,Orden y limpieza,2,89.50
+2,Scorpion,SXC,Scorpion Xochimilco,Orden y limpieza,3,88.33
+2,Scorpion,SCH,Scorpion Chicoloapan,Orden y limpieza,3,88.29
+2,Scorpion,SEM,Scorpion Eduardo Molina,Orden y limpieza,2,86.00
+2,Scorpion,SC7,Scorpion Calle 7,Orden y limpieza,3,83.57
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Orden y limpieza,3,83.52
+2,Scorpion,SF6,Scorpion Central F6,Orden y limpieza,2,82.50
+2,Scorpion,SQR,Scorpion Querétaro,Orden y limpieza,3,81.10
+2,Scorpion,SIX,Scorpion Ixtapaluca,Orden y limpieza,3,80.95
+2,Scorpion,SRY,Scorpion Reyes,Orden y limpieza,3,80.90
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Orden y limpieza,3,80.90
+2,Scorpion,STL,Scorpion Tlalnepantla,Orden y limpieza,4,80.25
+2,Scorpion,SN2,Scorpion Naucalpan 2,Orden y limpieza,3,78.67
+2,Scorpion,SH96,Scorpion Central H96,Orden y limpieza,1,78.57
+2,Scorpion,SN3,Scorpion Naucalpan 3,Orden y limpieza,3,78.57
+2,Scorpion,STY,Scorpion Tulyehualco,Orden y limpieza,3,78.52
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Orden y limpieza,3,76.38
+2,Scorpion,SAJ,Scorpion Ajusco,Orden y limpieza,3,76.33
+2,Scorpion,SCU,Scorpion Cuautepec,Orden y limpieza,3,76.33
+2,Scorpion,STA,Scorpion Tapicería,Orden y limpieza,3,71.67
+2,Scorpion,SAT,Scorpion Atizapán,Orden y limpieza,3,71.52
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Orden y limpieza,3,71.52
+2,Scorpion,SEC,Scorpion Ecatepec,Orden y limpieza,3,71.29
+2,Scorpion,SNA,Scorpion Nueva Aragón,Orden y limpieza,3,68.95
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Orden y limpieza,3,66.76
+2,Scorpion,STU,Scorpion Tulancingo,Orden y limpieza,3,66.52
+2,Scorpion,SVC,Scorpion Valle de Chalco,Orden y limpieza,3,57.29
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Rapidez,2,100.00
+2,Scorpion,SEC,Scorpion Ecatepec,Rapidez,3,100.00
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Rapidez,3,100.00
+2,Scorpion,SH96,Scorpion Central H96,Rapidez,1,100.00
+2,Scorpion,SIX,Scorpion Ixtapaluca,Rapidez,3,100.00
+2,Scorpion,STC,Scorpion Tecámac,Rapidez,3,100.00
+2,Scorpion,SCE,Scorpion Centenario,Rapidez,3,99.00
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Rapidez,3,99.00
+2,Scorpion,SVM,Scorpion Vía Morelos,Rapidez,3,97.98
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Rapidez,2,97.00
+2,Scorpion,SXC,Scorpion Xochimilco,Rapidez,3,97.00
+2,Scorpion,SC7,Scorpion Calle 7,Rapidez,3,96.00
+2,Scorpion,SCH,Scorpion Chicoloapan,Rapidez,3,96.00
+2,Scorpion,SVC,Scorpion Valle de Chalco,Rapidez,3,96.00
+2,Scorpion,STL,Scorpion Tlalnepantla,Rapidez,4,95.48
+2,Scorpion,SAJ,Scorpion Ajusco,Rapidez,3,95.00
+2,Scorpion,SCN,Scorpion Cuautitlán,Rapidez,3,95.00
+2,Scorpion,SN2,Scorpion Naucalpan 2,Rapidez,3,95.00
+2,Scorpion,SN3,Scorpion Naucalpan 3,Rapidez,3,95.00
+2,Scorpion,STA,Scorpion Tapicería,Rapidez,3,95.00
+2,Scorpion,STY,Scorpion Tulyehualco,Rapidez,3,94.95
+2,Scorpion,SRY,Scorpion Reyes,Rapidez,3,93.97
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Rapidez,3,91.95
+2,Scorpion,STU,Scorpion Tulancingo,Rapidez,3,91.00
+2,Scorpion,SAT,Scorpion Atizapán,Rapidez,3,88.94
+2,Scorpion,SCU,Scorpion Cuautepec,Rapidez,3,88.00
+2,Scorpion,SOC,Scorpion Coacalco,Rapidez,3,88.00
+2,Scorpion,SNA,Scorpion Nueva Aragón,Rapidez,3,86.99
+2,Scorpion,SF6,Scorpion Central F6,Rapidez,2,85.00
+2,Scorpion,SMI,Scorpion Misterios,Rapidez,2,85.00
+2,Scorpion,STT,Scorpion Tultitlán,Rapidez,3,85.00
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Rapidez,3,83.94
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Rapidez,3,79.90
+2,Scorpion,SQR,Scorpion Querétaro,Rapidez,3,79.90
+2,Scorpion,SEM,Scorpion Eduardo Molina,Rapidez,2,79.00
+2,Scorpion,SAT,Scorpion Atizapán,Seguridad industrial,3,100.00
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Seguridad industrial,3,100.00
+2,Scorpion,SH96,Scorpion Central H96,Seguridad industrial,1,100.00
+2,Scorpion,STT,Scorpion Tultitlán,Seguridad industrial,3,94.67
+2,Scorpion,SF6,Scorpion Central F6,Seguridad industrial,2,94.00
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Seguridad industrial,2,92.00
+2,Scorpion,SVM,Scorpion Vía Morelos,Seguridad industrial,3,90.67
+2,Scorpion,SCU,Scorpion Cuautepec,Seguridad industrial,3,88.67
+2,Scorpion,SCN,Scorpion Cuautitlán,Seguridad industrial,3,87.33
+2,Scorpion,SEM,Scorpion Eduardo Molina,Seguridad industrial,2,86.00
+2,Scorpion,SMI,Scorpion Misterios,Seguridad industrial,2,86.00
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Seguridad industrial,2,86.00
+2,Scorpion,SAJ,Scorpion Ajusco,Seguridad industrial,3,85.33
+2,Scorpion,SC7,Scorpion Calle 7,Seguridad industrial,3,85.33
+2,Scorpion,SCE,Scorpion Centenario,Seguridad industrial,3,85.33
+2,Scorpion,SEC,Scorpion Ecatepec,Seguridad industrial,3,84.67
+2,Scorpion,STY,Scorpion Tulyehualco,Seguridad industrial,3,84.67
+2,Scorpion,SQR,Scorpion Querétaro,Seguridad industrial,3,82.00
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Seguridad industrial,3,81.33
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Seguridad industrial,3,81.33
+2,Scorpion,SRY,Scorpion Reyes,Seguridad industrial,3,81.33
+2,Scorpion,STL,Scorpion Tlalnepantla,Seguridad industrial,4,81.00
+2,Scorpion,SN3,Scorpion Naucalpan 3,Seguridad industrial,3,80.67
+2,Scorpion,SNA,Scorpion Nueva Aragón,Seguridad industrial,3,80.00
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Seguridad industrial,3,80.00
+2,Scorpion,SCH,Scorpion Chicoloapan,Seguridad industrial,3,78.67
+2,Scorpion,SOC,Scorpion Coacalco,Seguridad industrial,3,76.67
+2,Scorpion,SIX,Scorpion Ixtapaluca,Seguridad industrial,3,74.67
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Seguridad industrial,3,72.67
+2,Scorpion,SXC,Scorpion Xochimilco,Seguridad industrial,3,72.00
+2,Scorpion,SVC,Scorpion Valle de Chalco,Seguridad industrial,3,71.33
+2,Scorpion,SN2,Scorpion Naucalpan 2,Seguridad industrial,3,70.00
+2,Scorpion,STC,Scorpion Tecámac,Seguridad industrial,3,69.33
+2,Scorpion,STA,Scorpion Tapicería,Seguridad industrial,3,68.67
+2,Scorpion,STU,Scorpion Tulancingo,Seguridad industrial,3,66.67
+2,Scorpion,SAT,Scorpion Atizapán,Surtido y existencia,3,100.00
+2,Scorpion,SCH,Scorpion Chicoloapan,Surtido y existencia,3,100.00
+2,Scorpion,SEC,Scorpion Ecatepec,Surtido y existencia,3,100.00
+2,Scorpion,SN2,Scorpion Naucalpan 2,Surtido y existencia,3,100.00
+2,Scorpion,SOC,Scorpion Coacalco,Surtido y existencia,3,100.00
+2,Scorpion,STA,Scorpion Tapicería,Surtido y existencia,3,100.00
+2,Scorpion,STL,Scorpion Tlalnepantla,Surtido y existencia,4,95.75
+2,Scorpion,SN3,Scorpion Naucalpan 3,Surtido y existencia,3,88.67
+2,Scorpion,SCN,Scorpion Cuautitlán,Surtido y existencia,3,86.00
+2,Scorpion,STC,Scorpion Tecámac,Surtido y existencia,3,86.00
+2,Scorpion,SVM,Scorpion Vía Morelos,Surtido y existencia,3,86.00
+2,Scorpion,SCE,Scorpion Centenario,Surtido y existencia,3,83.33
+2,Scorpion,SAJ,Scorpion Ajusco,Surtido y existencia,3,80.67
+2,Scorpion,STY,Scorpion Tulyehualco,Surtido y existencia,3,80.67
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Surtido y existencia,2,79.00
+2,Scorpion,SC7,Scorpion Calle 7,Surtido y existencia,3,75.00
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Surtido y existencia,3,72.33
+2,Scorpion,SCU,Scorpion Cuautepec,Surtido y existencia,3,69.33
+2,Scorpion,SQR,Scorpion Querétaro,Surtido y existencia,3,69.33
+2,Scorpion,STT,Scorpion Tultitlán,Surtido y existencia,3,69.33
+2,Scorpion,SRY,Scorpion Reyes,Surtido y existencia,3,66.67
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Surtido y existencia,3,66.67
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Surtido y existencia,2,58.50
+2,Scorpion,SF6,Scorpion Central F6,Surtido y existencia,2,58.50
+2,Scorpion,SEM,Scorpion Eduardo Molina,Surtido y existencia,2,58.00
+2,Scorpion,SIX,Scorpion Ixtapaluca,Surtido y existencia,3,55.67
+2,Scorpion,SNA,Scorpion Nueva Aragón,Surtido y existencia,3,55.33
+2,Scorpion,STU,Scorpion Tulancingo,Surtido y existencia,3,55.33
+2,Scorpion,SMI,Scorpion Misterios,Surtido y existencia,2,54.00
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Surtido y existencia,3,50.00
+2,Scorpion,SH96,Scorpion Central H96,Surtido y existencia,1,50.00
+2,Scorpion,SXC,Scorpion Xochimilco,Surtido y existencia,3,47.33
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Surtido y existencia,3,39.00
+2,Scorpion,SVC,Scorpion Valle de Chalco,Surtido y existencia,3,39.00
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Surtido y existencia,3,22.33
+2,Scorpion,SCH2,Scorpion Chicoloapan 2,Trato amable,2,100.00
+2,Scorpion,SN2,Scorpion Naucalpan 2,Trato amable,3,100.00
+2,Scorpion,SN3,Scorpion Naucalpan 3,Trato amable,3,100.00
+2,Scorpion,STC,Scorpion Tecámac,Trato amable,3,100.00
+2,Scorpion,SV2,Scorpion Valle de Chalco 2,Trato amable,3,96.00
+2,Scorpion,SXC,Scorpion Xochimilco,Trato amable,3,96.00
+2,Scorpion,SEC,Scorpion Ecatepec,Trato amable,3,94.33
+2,Scorpion,SVTC,Scorpion Venta del Carpio,Trato amable,2,94.00
+2,Scorpion,SCE,Scorpion Centenario,Trato amable,3,93.00
+2,Scorpion,STL,Scorpion Tlalnepantla,Trato amable,4,92.75
+2,Scorpion,SCH,Scorpion Chicoloapan,Trato amable,3,91.83
+2,Scorpion,SC7,Scorpion Calle 7,Trato amable,3,90.33
+2,Scorpion,SOC,Scorpion Coacalco,Trato amable,3,90.33
+2,Scorpion,SAJ,Scorpion Ajusco,Trato amable,3,88.94
+2,Scorpion,SRY,Scorpion Reyes,Trato amable,3,87.67
+2,Scorpion,SCADE1,Scorpion Central de Abastos de Ecatepec 1,Trato amable,3,87.50
+2,Scorpion,SIX,Scorpion Ixtapaluca,Trato amable,3,87.50
+2,Scorpion,STY,Scorpion Tulyehualco,Trato amable,3,86.28
+2,Scorpion,SQR,Scorpion Querétaro,Trato amable,3,86.11
+2,Scorpion,STA,Scorpion Tapicería,Trato amable,3,84.72
+2,Scorpion,SVM,Scorpion Vía Morelos,Trato amable,3,83.39
+2,Scorpion,SCN,Scorpion Cuautitlán,Trato amable,3,83.33
+2,Scorpion,SER,Scorpion Ermita Iztapalapa,Trato amable,3,82.11
+2,Scorpion,SNA,Scorpion Nueva Aragón,Trato amable,3,82.00
+2,Scorpion,SEM,Scorpion Eduardo Molina,Trato amable,2,81.50
+2,Scorpion,SMI,Scorpion Misterios,Trato amable,2,81.50
+2,Scorpion,SF6,Scorpion Central F6,Trato amable,2,79.50
+2,Scorpion,SVC,Scorpion Valle de Chalco,Trato amable,3,79.33
+2,Scorpion,SCADE2,Scorpion Central de Abastos de Ecatepec 2,Trato amable,3,76.56
+2,Scorpion,STT,Scorpion Tultitlán,Trato amable,3,75.00
+2,Scorpion,SCU,Scorpion Cuautepec,Trato amable,3,73.56
+2,Scorpion,STU,Scorpion Tulancingo,Trato amable,3,71.00
+2,Scorpion,SCADE3,Scorpion Central de Abastos de Ecatepec 3,Trato amable,3,67.00
+2,Scorpion,SAT,Scorpion Atizapán,Trato amable,3,66.83
+2,Scorpion,SH96,Scorpion Central H96,Trato amable,1,62.50
+3,Abarrotera San Jorge,JGL,San Jorge León,Atención en cajas,1,54.55
+3,Abarrotera San Jorge,JGL,San Jorge León,Calificación Total,1,55.00
+3,Abarrotera San Jorge,JGL,San Jorge León,Ofertas y precios,1,0.00
+3,Abarrotera San Jorge,JGL,San Jorge León,Orden y limpieza,1,50.00
+3,Abarrotera San Jorge,JGL,San Jorge León,Rapidez,1,87.88
+3,Abarrotera San Jorge,JGL,San Jorge León,Seguridad industrial,1,56.00
+3,Abarrotera San Jorge,JGL,San Jorge León,Surtido y existencia,1,0.00
+3,Abarrotera San Jorge,JGL,San Jorge León,Trato amable,1,54.17
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Atención en cajas,1,100.00
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Calificación Total,1,39.00
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Ofertas y precios,1,0.00
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Orden y limpieza,1,64.29
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Rapidez,1,30.30
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Seguridad industrial,1,100.00
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Surtido y existencia,1,0.00
+4,Sahuayo,SahCADE,Sahuayo Central de Abastos de Ecatepec,Trato amable,1,37.50
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Atención en cajas,1,100.00
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Calificación Total,1,76.00
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Ofertas y precios,1,100.00
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Orden y limpieza,1,78.57
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Rapidez,1,84.85
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Seguridad industrial,1,100.00
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Surtido y existencia,1,50.00
+5,Punto de Venta,PVCADE,Punto de Venta Central de Abastos de Ecatepec,Trato amable,1,54.17
+6,DZ,DZAT,DZ Atizapán,Atención en cajas,1,100.00
+6,DZ,DZT,DZ Tulancingo,Atención en cajas,2,91.00
+6,DZ,DZT,DZ Tulancingo,Calificación Total,2,81.50
+6,DZ,DZAT,DZ Atizapán,Calificación Total,1,74.00
+6,DZ,DZT,DZ Tulancingo,Ofertas y precios,2,16.50
+6,DZ,DZAT,DZ Atizapán,Ofertas y precios,1,0.00
+6,DZ,DZT,DZ Tulancingo,Orden y limpieza,2,53.50
+6,DZ,DZAT,DZ Atizapán,Orden y limpieza,1,14.00
+6,DZ,DZT,DZ Tulancingo,Rapidez,2,100.00
+6,DZ,DZAT,DZ Atizapán,Rapidez,1,82.00
+6,DZ,DZT,DZ Tulancingo,Seguridad industrial,2,77.00
+6,DZ,DZAT,DZ Atizapán,Seguridad industrial,1,22.00
+6,DZ,DZAT,DZ Atizapán,Surtido y existencia,1,83.00
+6,DZ,DZT,DZ Tulancingo,Surtido y existencia,2,50.00
+6,DZ,DZAT,DZ Atizapán,Trato amable,1,100.00
+6,DZ,DZT,DZ Tulancingo,Trato amable,2,100.00
+7,Puma Abarrotero,PAT,Puma Atizapán,Atención en cajas,2,86.50
+7,Puma Abarrotero,PBO,Puma Las Bombas,Atención en cajas,2,77.50
+7,Puma Abarrotero,PAT,Puma Atizapán,Calificación Total,2,96.50
+7,Puma Abarrotero,PBO,Puma Las Bombas,Calificación Total,2,90.50
+7,Puma Abarrotero,PBO,Puma Las Bombas,Ofertas y precios,2,91.50
+7,Puma Abarrotero,PAT,Puma Atizapán,Ofertas y precios,2,41.50
+7,Puma Abarrotero,PAT,Puma Atizapán,Orden y limpieza,2,93.00
+7,Puma Abarrotero,PBO,Puma Las Bombas,Orden y limpieza,2,86.00
+7,Puma Abarrotero,PBO,Puma Las Bombas,Rapidez,2,100.00
+7,Puma Abarrotero,PAT,Puma Atizapán,Rapidez,2,92.50
+7,Puma Abarrotero,PAT,Puma Atizapán,Seguridad industrial,2,100.00
+7,Puma Abarrotero,PBO,Puma Las Bombas,Seguridad industrial,2,100.00
+7,Puma Abarrotero,PAT,Puma Atizapán,Surtido y existencia,2,100.00
+7,Puma Abarrotero,PBO,Puma Las Bombas,Surtido y existencia,2,100.00
+7,Puma Abarrotero,PAT,Puma Atizapán,Trato amable,2,100.00
+7,Puma Abarrotero,PBO,Puma Las Bombas,Trato amable,2,81.50
+8,MPPD,MPPD,MPPD Conín,Atención en cajas,1,82.00
+8,MPPD,MPPD,MPPD Conín,Calificación Total,1,82.00
+8,MPPD,MPPD,MPPD Conín,Ofertas y precios,1,100.00
+8,MPPD,MPPD,MPPD Conín,Orden y limpieza,1,93.00
+8,MPPD,MPPD,MPPD Conín,Rapidez,1,79.00
+8,MPPD,MPPD,MPPD Conín,Seguridad industrial,1,100.00
+8,MPPD,MPPD,MPPD Conín,Surtido y existencia,1,58.00
+8,MPPD,MPPD,MPPD Conín,Trato amable,1,88.00
+9,Marber,MarberCADE,Cremería Marber,Atención en cajas,1,55.00
+9,Marber,MarberCADE,Cremería Marber,Calificación Total,1,84.00
+9,Marber,MarberCADE,Cremería Marber,Ofertas y precios,1,50.00
+9,Marber,MarberCADE,Cremería Marber,Orden y limpieza,1,79.00
+9,Marber,MarberCADE,Cremería Marber,Rapidez,1,85.00
+9,Marber,MarberCADE,Cremería Marber,Seguridad industrial,1,100.00
+9,Marber,MarberCADE,Cremería Marber,Surtido y existencia,1,100.00
+9,Marber,MarberCADE,Cremería Marber,Trato amable,1,100.00

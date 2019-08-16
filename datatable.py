@@ -25,7 +25,8 @@ from dash.dependencies import Input, Output
 
 #df[' index'] = range(1, len(df) + 1)
 
-data_file = "/home/randrade/proyectos/zorro_abarrotero/dev/db/datasets/data_promedios_calificaciones.csv"
+#data_file = "/home/randrade/proyectos/zorro_abarrotero/dev/db/datasets/data_promedios_calificaciones.csv"
+data_file = "data_promedios_calificaciones.csv"
 df = pd.read_csv(data_file,usecols=['cadena','nombre_tienda', 'dimension','mediciones', 'promedio'])
 #df = pd.read_csv(data_file)
 
